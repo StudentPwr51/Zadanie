@@ -1,1 +1,4 @@
-To jest tekst do rozdziału pierwszego.6
+Rozdział 1
+==========
+
+To jest tekst do rozdziału pierwszego.
