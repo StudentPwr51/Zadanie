@@ -1,1 +1,1 @@
-To jest tekst do rozdzialu 2.6
+To jest tekst do rozdziału drugiego.

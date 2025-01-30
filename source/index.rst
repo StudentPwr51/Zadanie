@@ -12,7 +12,7 @@ Welcome to Zadanie's documentation!
 
    Rozdzial1
    Rozdzial2
-   Rozdzial36
+   Rozdzial3
 
 Indices and tables
 ==================

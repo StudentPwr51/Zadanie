@@ -1,1 +1,1 @@
-To jest tekst do rozdzialu 3.
+To jest tekst do rozdziału trzeciego.
